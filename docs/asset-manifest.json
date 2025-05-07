@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ee1eb9d4.css",
+    "main.js": "/static/js/main.56f36b3b.js",
+    "static/media/findora.png": "/static/media/findora.0c9e57ed67eca9a39627.png",
+    "index.html": "/index.html",
+    "main.ee1eb9d4.css.map": "/static/css/main.ee1eb9d4.css.map",
+    "main.56f36b3b.js.map": "/static/js/main.56f36b3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee1eb9d4.css",
+    "static/js/main.56f36b3b.js"
+  ]
+}
